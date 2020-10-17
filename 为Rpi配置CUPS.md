@@ -10,7 +10,7 @@ https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/
 
 ![图片1](https://github.com/arliilove/PrintServerBasedOnopenWrt/blob/master/screenshot/%E5%9B%BE%E7%89%871.png)
 
-然后可利用 Balena etcher 或 Win32DiskImager 将下载好的安装包烧写至sd卡 。稍后也会提供配置好CUPS的系统文件，只是在建立https连接时有些许问题。（配置页面位于192.168.1.253，密码：123456）
+然后可利用 Balena etcher 或 Win32DiskImager 将下载好的安装包烧写至sd卡 。在主页侧面的release中也提供了配置好CUPS的系统文件，只是在建立https连接时有些许问题。（配置页面位于192.168.1.253，密码：123456）
 
 另外值得一提的是网上也有经过修改、添加功能后的openwrt系统，安装它们可以省去后面的一些配置步骤，但少数情况下预安装的包会与新安装的包产生冲突。
 
